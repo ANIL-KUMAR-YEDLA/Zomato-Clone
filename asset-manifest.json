@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zomato_Clone/static/css/main.86b3a123.css",
+    "main.js": "/Zomato_Clone/static/js/main.10f1be35.js",
+    "index.html": "/Zomato_Clone/index.html",
+    "main.86b3a123.css.map": "/Zomato_Clone/static/css/main.86b3a123.css.map",
+    "main.10f1be35.js.map": "/Zomato_Clone/static/js/main.10f1be35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86b3a123.css",
+    "static/js/main.10f1be35.js"
+  ]
+}
